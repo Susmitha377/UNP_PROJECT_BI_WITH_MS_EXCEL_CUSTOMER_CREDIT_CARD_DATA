@@ -4,8 +4,6 @@ Key highlights of the project include:
 Actively contributed to the design and implementation of complex Key Performance Indicators (KPIs) to measure key business metrics effectively.
 Developed dynamic and interactive Excel dashboards that provided insightful visualizations, allowing users to easily explore and interpret the data.
 Worked with a rich dataset containing information on demographics, credit card usage patterns, and consumer spending behavior to derive meaningful business insights.
-
 Played a central role in data preparation, including cleaning, structuring, and transforming raw data into an analysis-ready format.
-
 Utilized advanced Excel tools such as pivot tables, charts, conditional formatting, and formula-based logic to perform in-depth analysis and present data-driven findings in an engaging manner.
-4. MS EXCEL PROJECT FILE:https://1drv.ms/x/c/3b453b63f65a004f/Efaqz7oVQu5Dthgl0WDN1dMBID92jLXxteVm_Z6u9xPbeA?e=I9Xfbv 
+MS EXCEL PROJECT FILE:https://1drv.ms/x/c/3b453b63f65a004f/Efaqz7oVQu5Dthgl0WDN1dMBID92jLXxteVm_Z6u9xPbeA?e=I9Xfbv 
